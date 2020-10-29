@@ -15,7 +15,7 @@
     "jsx": "preserve",
     "baseUrl": ".",
     "paths": {
-      "@b2b/components": ["components/*"]
+      "@mono/components": ["components/*"]
     }
   }
 }

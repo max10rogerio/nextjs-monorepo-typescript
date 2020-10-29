@@ -1,5 +1,5 @@
 {
-  "name": "@b2b/components",
+  "name": "@mono/components",
   "version": "1.0.0",
   "private": true,
   "main": "dist/index.js",

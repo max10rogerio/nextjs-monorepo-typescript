@@ -1,5 +1,5 @@
 {
-  "name": "@b2b/checkout",
+  "name": "@mono/checkout",
   "version": "0.1.0",
   "private": true,
   "scripts": {

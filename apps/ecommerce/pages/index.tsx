@@ -1,7 +1,7 @@
 import Head from "next/head";
 import styles from "../styles/Home.module.css";
 
-import { Title } from "@b2b/components";
+import { Title } from "@mono/components";
 
 export default function Home() {
   return (
