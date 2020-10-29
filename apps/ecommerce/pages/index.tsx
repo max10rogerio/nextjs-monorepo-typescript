@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <Title color="red">dsadsa</Title>
+        <Title color="red">ecommerce</Title>
       </main>
     </div>
   );
