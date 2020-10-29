@@ -1,0 +1,19 @@
+{
+  "name": "b2c",
+  "version": "0.0.1",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "dev:ecommerce": "yarn workspace @b2b/ecommerce run dev",
+    "dev:central": "yarn workspace @b2b/central run dev",
+    "dev:checkout": "yarn workspace @b2b/checkout run dev",
+    "build:ecommerce": "yarn workspace @b2b/ecommerce run build",
+    "build:central": "yarn workspace @b2b/central run build",
+    "build:checkout": "yarn workspace @b2b/checkout run build"
+  },
+  "workspaces": [
+    "apps/*",
+    "core",
+    "components"
+  ]
+}
